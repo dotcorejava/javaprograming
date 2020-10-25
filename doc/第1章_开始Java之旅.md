@@ -46,7 +46,7 @@ javac 14.0.1
 
 配置环境变量:  
 JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64  
-classpath=$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+classpath=$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar  
 PATH=$JAVA_HOME/bin:$PATH
 
 
